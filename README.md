@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# React-Js-face-land-mark-detection-using-MediaPipe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Real-Time Face Mash project is an interactive web application that leverages the power of Google's MediaPipe and React.js to provide users with a fun and engaging experience. This project allows users to compare and "mash up" the faces of different individuals in real-time using their device's camera.
 
-## Available Scripts
+![Nuxt JS Portfolio for developer](1.PNG?raw=true "Nuxt JS Portfolio for developer")
+![Nuxt JS Portfolio for developer](2.PNG?raw=true "Nuxt JS Portfolio for developer")
+![Nuxt JS Portfolio for developer](3.PNG?raw=true "Nuxt JS Portfolio for developer")
+### <a href="http://baizidmdashadzzaman.com/">LIVE DEMO</a>
 
-In the project directory, you can run:
+### How Install
 
-### `npm start`
+You can simply run the project by following process
+```shell
+$ git clone https://github.com/Baizidmdashadzzaman/React-Js-face-land-mark-detection-using-MediaPipe
+```
+```shell
+$ cd React-Js-face-land-mark-detection-using-MediaPipe
+```
+```shell
+$ npm install
+```
+```shell
+$ npm run dev
+```
+After that you can run the project by visiting http://localhost:3000/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Deploy Your Own
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Deploy your own Nuxt.js project with Vercel.
 
-### `npm test`
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```shell
+upload the project in your github account
+```
+```shell
+create vercel account
+```
+```shell
+create new project linked & your gitgub repository
+```
+```shell
+you are ready to go
+```
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
